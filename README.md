@@ -51,5 +51,4 @@ _note that space in between doesn't matter_
 
 ### Credits
 
-- <b>Thanks To [NOVA](http://github.com/medjahdi) For Base Repo
-- Thanks To [LEADER🇺🇸](https://t.me/Irrlrrr) For Modify & Added Login Feature.</b>
+- <b>Thanks To [LEADER🇺🇸](https://t.me/Irrlrrr) For Base Repo and For Modify & Added Login Feature.</b>
